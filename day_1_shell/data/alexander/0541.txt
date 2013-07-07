@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jun 21 10:56:08 2011
+Subject: johnHarrison448
+Year/month of birth: 1992/12
+Sex: F
+CI type: 14
+Volume: 6
+Range: 5
+Discrimination: 6

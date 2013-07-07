@@ -1,0 +1,9 @@
+# 
+Reported: Mon May 2 14:24:05 2011
+Subject: georgeCarrot252
+Year/month of birth: 1991/05
+Sex: M
+CI type: 19
+Volume: 3
+Range: 4
+Discrimination: 2

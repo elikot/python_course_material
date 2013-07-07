@@ -1,0 +1,9 @@
+# 
+Reported: Sat Jul 9 16:57:43 2011
+Subject: babySpice416
+Year/month of birth: 1996/11
+Sex: N
+CI type: 24
+Volume: 8
+Range: 5
+Discrimination: 5

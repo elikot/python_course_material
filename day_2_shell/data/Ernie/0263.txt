@@ -1,0 +1,9 @@
+# 
+Reported: Sat Sep 3 16:41:31 2011
+Subject: princeBeatle212
+Year/month of birth: 1998/08
+Sex: N
+CI type: 8
+Volume: 5
+Range: 10
+Discrimination: 6

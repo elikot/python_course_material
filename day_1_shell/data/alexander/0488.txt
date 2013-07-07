@@ -1,0 +1,9 @@
+# 
+Reported: Sun Sep 25 09:49:18 2011
+Subject: gingerMcCartney398
+Year/month of birth: 1997/06
+Sex: F
+CI type: 7
+Volume: 3
+Range: 7
+Discrimination: 8

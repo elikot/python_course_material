@@ -1,0 +1,9 @@
+# 
+Reported: Wed Jul 6 12:40:41 2011
+Subject: georgeBeatle194
+Year/month of birth: 1999/02
+Sex: N
+CI type: 6
+Volume: 1
+Range: 3
+Discrimination: 2

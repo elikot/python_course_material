@@ -1,0 +1,9 @@
+# 
+Reported: Wed Aug 3 14:10:33 2011
+Subject: ringoSync444
+Year/month of birth: 1992/10
+Sex: M
+CI type: 8
+Volume: 3
+Range: 8
+Discrimination: 5

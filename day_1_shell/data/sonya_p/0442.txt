@@ -1,0 +1,9 @@
+# 
+Reported: Sun Jun 19 11:26:40 2011
+Subject: robynBeet359
+Year/month of birth: 1996/05
+Sex: N
+CI type: 20
+Volume: 4
+Range: 2
+Discrimination: 8

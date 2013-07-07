@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jun 21 12:45:35 2011
+Subject: poshZ312
+Year/month of birth: 1994/02
+Sex: F
+CI type: 11
+Volume: 6
+Range: 6
+Discrimination: 4

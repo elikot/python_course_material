@@ -1,0 +1,9 @@
+# 
+Reported: Mon May 23 14:28:19 2011
+Subject: madonnaHarrison384
+Year/month of birth: 1995/10
+Sex: N
+CI type: 22
+Volume: 5
+Range: 7
+Discrimination: 4

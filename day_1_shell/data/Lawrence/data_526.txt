@@ -1,0 +1,9 @@
+# 
+Reported: Mon May 23 15:27:48 2011
+Subject: beyonceJonas433
+Year/month of birth: 1994/12
+Sex: N
+CI type: 11
+Volume: 4
+Range: 4
+Discrimination: 4

@@ -1,0 +1,9 @@
+# 
+Reported: Wed Aug 24 08:35:47 2011
+Subject: gingerZ464
+Year/month of birth: 1993/07
+Sex: M
+CI type: 25
+Volume: 4
+Range: 8
+Discrimination: 9

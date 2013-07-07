@@ -1,0 +1,9 @@
+# 
+Reported: Mon Jul 25 16:22:10 2011
+Subject: madonnaHarrison173
+Year/month of birth: 1999/01
+Sex: F
+CI type: 4
+Volume: 2
+Range: 4
+Discrimination: 6

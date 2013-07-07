@@ -1,0 +1,9 @@
+# 
+Reported: Sun Sep 18 10:39:12 2011
+Subject: jayZ245
+Year/month of birth: 1996/09
+Sex: N
+CI type: 3
+Volume: 3
+Range: 10
+Discrimination: 2

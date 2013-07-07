@@ -1,0 +1,9 @@
+# 
+Reported: Fri Aug 19 16:22:55 2011
+Subject: madonnaBeet395
+Year/month of birth: 1997/07
+Sex: N
+CI type: 23
+Volume: 7
+Range: 10
+Discrimination: 7

@@ -1,0 +1,9 @@
+# 
+Reported: Sun Aug 28 11:14:26 2011
+Subject: ringoMcCartney424
+Year/month of birth: 1994/07
+Sex: N
+CI type: 15
+Volume: 5
+Range: 9
+Discrimination: 8

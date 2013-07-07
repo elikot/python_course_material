@@ -1,0 +1,9 @@
+# 
+Reported: Mon Sep 19 11:41:49 2011
+Subject: jayLennon365
+Year/month of birth: 1999/01
+Sex: N
+CI type: 18
+Volume: 2
+Range: 9
+Discrimination: 6

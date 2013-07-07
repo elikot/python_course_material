@@ -1,0 +1,9 @@
+# 
+Reported: Mon May 16 11:32:47 2011
+Subject: princeSync402
+Year/month of birth: 1996/05
+Sex: N
+CI type: 20
+Volume: 5
+Range: 8
+Discrimination: 

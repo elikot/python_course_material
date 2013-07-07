@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jun 14 16:48:51 2011
+Subject: ringoJonas345
+Year/month of birth: 1993/02
+Sex: F
+CI type: 22
+Volume: 8
+Range: 8
+Discrimination: 6

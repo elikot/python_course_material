@@ -1,0 +1,9 @@
+# 
+Reported: Fri Sep 2 11:32:10 2011
+Subject: jayBeet302
+Year/month of birth: 1999/08
+Sex: M
+CI type: 7
+Volume: 4
+Range: 8
+Discrimination: 2

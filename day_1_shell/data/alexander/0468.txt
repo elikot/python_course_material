@@ -1,0 +1,9 @@
+# 
+Reported: Mon Aug 15 10:55:17 2011
+Subject: jaySync380
+Year/month of birth: 1994/12
+Sex: N
+CI type: 20
+Volume: 5
+Range: 5
+Discrimination: 6

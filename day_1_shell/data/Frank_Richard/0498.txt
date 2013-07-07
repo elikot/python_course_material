@@ -1,0 +1,9 @@
+# 
+Reported: Sat Aug 6 09:44:13 2011
+Subject: madonnaSync408
+Year/month of birth: 1997/07
+Sex: N
+CI type: 6
+Volume: 1
+Range: 7
+Discrimination: 2

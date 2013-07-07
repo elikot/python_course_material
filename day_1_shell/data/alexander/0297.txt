@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jun 21 14:55:47 2011
+Subject: babyAsparagus247
+Year/month of birth: 1995/03
+Sex: M
+CI type: 15
+Volume: 5
+Range: 3
+Discrimination: 5

@@ -1,0 +1,9 @@
+# 
+Reported: Thu Aug 4 11:25:28 2011
+Subject: robynZ289
+Year/month of birth: 1991/02
+Sex: F
+CI type: 13
+Volume: 3
+Range: 5
+Discrimination: 3

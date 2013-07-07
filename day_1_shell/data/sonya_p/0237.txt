@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jul 26 09:08:30 2011
+Subject: poshBeet196
+Year/month of birth: 1999/01
+Sex: F
+CI type: 8
+Volume: 6
+Range: 6
+Discrimination: 5

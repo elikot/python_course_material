@@ -1,0 +1,9 @@
+# 
+Reported: Wed May 18 12:06:58 2011
+Subject: beyonceBeet453
+Year/month of birth: 1994/12
+Sex: F
+CI type: 15
+Volume: 2
+Range: 6
+Discrimination: 5

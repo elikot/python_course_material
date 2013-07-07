@@ -1,0 +1,9 @@
+# 
+Reported: Wed Sep 28 16:51:13 2011
+Subject: madonnaBackstreet388
+Year/month of birth: 1994/05
+Sex: M
+CI type: 14
+Volume: 4
+Range: 8
+Discrimination: 7

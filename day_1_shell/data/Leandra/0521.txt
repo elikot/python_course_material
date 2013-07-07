@@ -1,0 +1,9 @@
+# 
+Reported: Thu Jun 2 14:24:09 2011
+Subject: robynSpice430
+Year/month of birth: 1994/04
+Sex: M
+CI type: 20
+Volume: 5
+Range: 2
+Discrimination: 5

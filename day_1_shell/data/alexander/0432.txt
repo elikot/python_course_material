@@ -1,0 +1,9 @@
+# 
+Reported: Mon May 2 15:15:46 2011
+Subject: madonnaBroccoli355
+Year/month of birth: 1998/02
+Sex: F
+CI type: 15
+Volume: 9
+Range: 7
+Discrimination: 5

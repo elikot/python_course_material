@@ -1,0 +1,9 @@
+# 
+Reported: Sun Aug 21 15:21:04 2011
+Subject: gingerLennon342
+Year/month of birth: 1998/06
+Sex: F
+CI type: 24
+Volume: 7
+Range: 10
+Discrimination: 9

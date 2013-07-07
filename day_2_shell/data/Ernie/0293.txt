@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jun 14 11:28:24 2011
+Subject: ringoJonas229
+Year/month of birth: 1995/03
+Sex: M
+CI type: 3
+Volume: 1
+Range: 5
+Discrimination: 2

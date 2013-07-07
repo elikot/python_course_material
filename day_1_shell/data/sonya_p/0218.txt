@@ -1,0 +1,9 @@
+# 
+Reported: Thu Jul 7 12:45:28 2011
+Subject: johnBroccoli180
+Year/month of birth: 1997/05
+Sex: N
+CI type: 4
+Volume: 3
+Range: 7
+Discrimination: 5

@@ -1,0 +1,9 @@
+# 
+Reported: Thu May 26 13:45:08 2011
+Subject: beyonceStarr331
+Year/month of birth: 1994/09
+Sex: M
+CI type: 22
+Volume: 2
+Range: 5
+Discrimination: 6

@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jun 28 08:52:42 2011
+Subject: jayStarr413
+Year/month of birth: 1999/07
+Sex: N
+CI type: 25
+Volume: 6
+Range: 9
+Discrimination: 5

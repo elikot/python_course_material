@@ -1,0 +1,9 @@
+# 
+Reported: Wed Sep 28 13:09:21 2011
+Subject: ringoHarrison375
+Year/month of birth: 1995/05
+Sex: N
+CI type: 5
+Volume: 4
+Range: 7
+Discrimination: 5

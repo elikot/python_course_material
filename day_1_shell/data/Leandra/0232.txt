@@ -1,0 +1,9 @@
+# 
+Reported: Wed Sep 28 15:35:47 2011
+Subject: babyLennon191
+Year/month of birth: 1999/12
+Sex: M
+CI type: 16
+Volume: 3
+Range: 6
+Discrimination: 7

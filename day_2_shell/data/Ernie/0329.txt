@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jun 7 15:04:17 2011
+Subject: paulSync258
+Year/month of birth: 1993/09
+Sex: F
+CI type: 25
+Volume: 3
+Range: 7
+Discrimination: 4

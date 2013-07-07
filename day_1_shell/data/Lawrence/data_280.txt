@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jul 5 09:17:08 2011
+Subject: gingerSync236
+Year/month of birth: 1993/08
+Sex: N
+CI type: 15
+Volume: 2
+Range: 5
+Discrimination: 7

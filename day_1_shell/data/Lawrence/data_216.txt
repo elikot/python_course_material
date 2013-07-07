@@ -1,0 +1,9 @@
+# 
+Reported: Sat Sep 17 08:27:49 2011
+Subject: poshMcCartney178
+Year/month of birth: 1992/11
+Sex: M
+CI type: 8
+Volume: 4
+Range: 3
+Discrimination: 

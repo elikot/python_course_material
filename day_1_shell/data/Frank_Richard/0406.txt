@@ -1,0 +1,9 @@
+# 
+Reported: Sun May 1 16:40:33 2011
+Subject: babyBackstreet338
+Year/month of birth: 1992/10
+Sex: F
+CI type: 23
+Volume: 6
+Range: 0
+Discrimination: 7

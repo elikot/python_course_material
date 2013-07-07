@@ -1,0 +1,9 @@
+# 
+Reported: Fri Jun 24 08:32:23 2011
+Subject: babyHarrison260
+Year/month of birth: 1992/06
+Sex: F
+CI type: 12
+Volume: 4
+Range: 7
+Discrimination: 3

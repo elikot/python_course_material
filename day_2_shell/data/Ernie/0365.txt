@@ -1,0 +1,9 @@
+# 
+Reported: Sat Jul 30 14:03:53 2011
+Subject: johnBeatle285
+Year/month of birth: 1993/05
+Sex: N
+CI type: 18
+Volume: 8
+Range: 1
+Discrimination: 5

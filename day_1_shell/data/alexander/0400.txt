@@ -1,0 +1,9 @@
+# 
+Reported: Thu Jun 9 14:25:52 2011
+Subject: georgeSpice332
+Year/month of birth: 1997/01
+Sex: M
+CI type: 15
+Volume: 7
+Range: 8
+Discrimination: 5

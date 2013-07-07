@@ -1,0 +1,9 @@
+# 
+Reported: Wed Aug 17 12:22:22 2011
+Subject: babyStarr381
+Year/month of birth: 1999/07
+Sex: M
+CI type: 24
+Volume: 6
+Range: 5
+Discrimination: 8

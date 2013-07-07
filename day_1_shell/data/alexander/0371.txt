@@ -1,0 +1,9 @@
+# 
+Reported: Fri Sep 9 14:40:24 2011
+Subject: princeBeatle310
+Year/month of birth: 1992/12
+Sex: M
+CI type: 5
+Volume: 1
+Range: 5
+Discrimination: 2

@@ -1,0 +1,9 @@
+# 
+Reported: Thu May 5 12:52:02 2011
+Subject: scaryAsparagus208
+Year/month of birth: 1992/04
+Sex: M
+CI type: 25
+Volume: 6
+Range: 2
+Discrimination: 7

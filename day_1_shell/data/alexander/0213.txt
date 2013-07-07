@@ -1,0 +1,9 @@
+# 
+Reported: Fri Jul 8 11:25:29 2011
+Subject: poshZ175
+Year/month of birth: 1995/04
+Sex: F
+CI type: 5
+Volume: 4
+Range: 2
+Discrimination: 2

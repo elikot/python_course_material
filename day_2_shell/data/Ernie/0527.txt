@@ -1,0 +1,9 @@
+# 
+Reported: Wed Sep 14 09:58:13 2011
+Subject: babyAsparagus407
+Year/month of birth: 1993/03
+Sex: N
+CI type: 25
+Volume: 5
+Range: 8
+Discrimination: 

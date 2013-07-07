@@ -1,0 +1,9 @@
+# 
+Reported: Sun May 15 15:34:20 2011
+Subject: beyonceLennon364
+Year/month of birth: 1997/03
+Sex: M
+CI type: 18
+Volume: 5
+Range: 8
+Discrimination: 6

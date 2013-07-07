@@ -1,0 +1,9 @@
+# 
+Reported: Fri Sep 2 12:57:01 2011
+Subject: paulZ315
+Year/month of birth: 1995/07
+Sex: N
+CI type: 15
+Volume: 7
+Range: 7
+Discrimination: 7

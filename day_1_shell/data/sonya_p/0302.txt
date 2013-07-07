@@ -1,0 +1,9 @@
+# 
+Reported: Fri Sep 9 15:26:48 2011
+Subject: poshBeet252
+Year/month of birth: 1999/06
+Sex: F
+CI type: 22
+Volume: 10
+Range: 7
+Discrimination: 9

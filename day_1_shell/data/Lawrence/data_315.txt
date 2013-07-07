@@ -1,0 +1,9 @@
+# 
+Reported: Thu Sep 1 09:54:13 2011
+Subject: gingerStarr261
+Year/month of birth: 1992/08
+Sex: F
+CI type: 15
+Volume: 9
+Range: 5
+Discrimination: 7

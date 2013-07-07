@@ -1,0 +1,9 @@
+# 
+Reported: Thu Jul 14 16:20:08 2011
+Subject: babyJonas327
+Year/month of birth: 1998/06
+Sex: M
+CI type: 9
+Volume: 7
+Range: 7
+Discrimination: 2

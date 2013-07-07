@@ -1,0 +1,9 @@
+# 
+Reported: Wed Aug 10 09:26:37 2011
+Subject: georgeLennon420
+Year/month of birth: 1997/07
+Sex: F
+CI type: 23
+Volume: 7
+Range: 7
+Discrimination: 6

@@ -1,0 +1,9 @@
+# 
+Reported: Sun May 1 10:58:03 2011
+Subject: princeSync187
+Year/month of birth: 1998/05
+Sex: M
+CI type: 13
+Volume: 8
+Range: 9
+Discrimination: 2

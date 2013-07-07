@@ -1,0 +1,9 @@
+# 
+Reported: Sat Aug 20 11:55:17 2011
+Subject: poshZ206
+Year/month of birth: 1997/06
+Sex: F
+CI type: 2
+Volume: 4
+Range: 10
+Discrimination: 4

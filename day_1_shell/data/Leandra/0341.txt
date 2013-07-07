@@ -1,0 +1,9 @@
+# 
+Reported: Sun Sep 4 08:27:20 2011
+Subject: jaySync284
+Year/month of birth: 1996/05
+Sex: F
+CI type: 17
+Volume: 6
+Range: 10
+Discrimination: 8

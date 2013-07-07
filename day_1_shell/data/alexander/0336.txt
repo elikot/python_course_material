@@ -1,0 +1,9 @@
+# 
+Reported: Mon Jul 18 11:37:16 2011
+Subject: paulMcCartney279
+Year/month of birth: 1998/11
+Sex: N
+CI type: 4
+Volume: 3
+Range: 8
+Discrimination: 0

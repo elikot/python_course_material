@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jul 26 14:53:49 2011
+Subject: babyZ418
+Year/month of birth: 1997/10
+Sex: N
+CI type: 11
+Volume: 5
+Range: 9
+Discrimination: 5

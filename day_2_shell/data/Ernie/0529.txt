@@ -1,0 +1,9 @@
+# 
+Reported: Thu Jun 9 13:28:24 2011
+Subject: johnStarr409
+Year/month of birth: 1991/09
+Sex: M
+CI type: 14
+Volume: 8
+Range: 4
+Discrimination: 6

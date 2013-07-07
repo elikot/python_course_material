@@ -1,0 +1,9 @@
+# 
+Reported: Mon Aug 22 14:52:28 2011
+Subject: poshStarr361
+Year/month of birth: 1995/04
+Sex: N
+CI type: 1
+Volume: 4
+Range: 2
+Discrimination: 4

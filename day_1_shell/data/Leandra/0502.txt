@@ -1,0 +1,9 @@
+# 
+Reported: Sat Jul 23 12:30:34 2011
+Subject: poshJonas412
+Year/month of birth: 1997/11
+Sex: F
+CI type: 20
+Volume: 2
+Range: 6
+Discrimination: 4

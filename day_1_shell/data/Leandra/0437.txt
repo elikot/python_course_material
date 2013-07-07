@@ -1,0 +1,9 @@
+# 
+Reported: Tue May 17 08:30:23 2011
+Subject: gingerBeatle357
+Year/month of birth: 1994/07
+Sex: M
+CI type: 17
+Volume: 3
+Range: 7
+Discrimination: 7

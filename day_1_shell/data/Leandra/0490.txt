@@ -1,0 +1,9 @@
+# 
+Reported: Wed Jun 1 11:50:44 2011
+Subject: paulMcCartney400
+Year/month of birth: 1999/09
+Sex: F
+CI type: 6
+Volume: 2
+Range: 7
+Discrimination: 5

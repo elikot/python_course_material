@@ -1,0 +1,9 @@
+# 
+Reported: Sat Sep 17 09:27:23 2011
+Subject: georgeCarrot417
+Year/month of birth: 1997/02
+Sex: F
+CI type: 4
+Volume: 1
+Range: 7
+Discrimination: 3

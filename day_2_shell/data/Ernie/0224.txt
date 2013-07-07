@@ -1,0 +1,9 @@
+# 
+Reported: Sat Sep 24 10:51:31 2011
+Subject: gingerHarrison184
+Year/month of birth: 1995/09
+Sex: F
+CI type: 6
+Volume: 8
+Range: 4
+Discrimination: 6

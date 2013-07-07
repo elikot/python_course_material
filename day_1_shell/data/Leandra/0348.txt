@@ -1,0 +1,9 @@
+# 
+Reported: Thu May 5 08:51:15 2011
+Subject: babyStarr291
+Year/month of birth: 1993/03
+Sex: M
+CI type: 6
+Volume: 1
+Range: 8
+Discrimination: 5

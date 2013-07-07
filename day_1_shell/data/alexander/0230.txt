@@ -1,0 +1,9 @@
+# 
+Reported: Mon Aug 29 11:27:26 2011
+Subject: paulBroccoli189
+Year/month of birth: 1991/11
+Sex: N
+CI type: 20
+Volume: 3
+Range: 3
+Discrimination: 5

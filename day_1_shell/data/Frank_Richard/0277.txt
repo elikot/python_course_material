@@ -1,0 +1,9 @@
+# 
+Reported: Fri May 27 15:26:08 2011
+Subject: babyBackstreet233
+Year/month of birth: 1997/11
+Sex: N
+CI type: 14
+Volume: 1
+Range: 7
+Discrimination: 4

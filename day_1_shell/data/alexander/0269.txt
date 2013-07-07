@@ -1,0 +1,9 @@
+# 
+Reported: Mon May 16 13:28:29 2011
+Subject: georgeHarrison225
+Year/month of birth: 1994/02
+Sex: M
+CI type: 8
+Volume: 5
+Range: 5
+Discrimination: 3

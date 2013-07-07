@@ -1,0 +1,9 @@
+# 
+Reported: Sun Sep 18 14:37:51 2011
+Subject: robynBackstreet328
+Year/month of birth: 1997/08
+Sex: N
+CI type: 11
+Volume: 8
+Range: 7
+Discrimination: 6

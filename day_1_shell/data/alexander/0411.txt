@@ -1,0 +1,9 @@
+# 
+Reported: Tue Sep 27 09:05:09 2011
+Subject: babyCarrot340
+Year/month of birth: 1996/02
+Sex: F
+CI type: 24
+Volume: 6
+Range: 10
+Discrimination: 8

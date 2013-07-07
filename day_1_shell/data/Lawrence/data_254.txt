@@ -1,0 +1,9 @@
+# 
+Reported: Sun May 8 15:44:12 2011
+Subject: paulBeet211
+Year/month of birth: 1991/09
+Sex: F
+CI type: 20
+Volume: 3
+Range: 7
+Discrimination: 3

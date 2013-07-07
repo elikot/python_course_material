@@ -1,0 +1,9 @@
+# 
+Reported: Sat Jun 11 10:39:08 2011
+Subject: gingerMcCartney268
+Year/month of birth: 1991/12
+Sex: F
+CI type: 6
+Volume: 4
+Range: 3
+Discrimination: 7

@@ -1,0 +1,9 @@
+# 
+Reported: Wed Jul 27 10:57:53 2011
+Subject: gingerBeatle307
+Year/month of birth: 1991/11
+Sex: F
+CI type: 3
+Volume: 4
+Range: 7
+Discrimination: 4

@@ -1,0 +1,9 @@
+# 
+Reported: Sat Jun 18 08:40:43 2011
+Subject: johnSpice227
+Year/month of birth: 1997/11
+Sex: F
+CI type: 8
+Volume: 6
+Range: 9
+Discrimination: 7

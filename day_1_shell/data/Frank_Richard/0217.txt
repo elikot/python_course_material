@@ -1,0 +1,9 @@
+# 
+Reported: Tue Sep 27 09:37:39 2011
+Subject: scaryMcCartney179
+Year/month of birth: 1993/08
+Sex: F
+CI type: 18
+Volume: 2
+Range: 8
+Discrimination: 5

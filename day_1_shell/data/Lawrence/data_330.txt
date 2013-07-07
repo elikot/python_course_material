@@ -1,0 +1,9 @@
+# 
+Reported: Mon Jul 25 15:25:33 2011
+Subject: ringoJonas274
+Year/month of birth: 1999/09
+Sex: N
+CI type: 24
+Volume: 4
+Range: 7
+Discrimination: 5

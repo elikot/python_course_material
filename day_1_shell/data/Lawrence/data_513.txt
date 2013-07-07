@@ -1,0 +1,9 @@
+# 
+Reported: Tue May 3 10:45:26 2011
+Subject: poshBroccoli423
+Year/month of birth: 1991/10
+Sex: N
+CI type: 8
+Volume: 3
+Range: 5
+Discrimination: 

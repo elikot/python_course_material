@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jun 14 10:21:47 2011
+Subject: babyCarrot222
+Year/month of birth: 1999/06
+Sex: F
+CI type: 11
+Volume: 6
+Range: 9
+Discrimination: 4

@@ -1,0 +1,9 @@
+# 
+Reported: Fri Jul 22 09:25:02 2011
+Subject: johnBeatle363
+Year/month of birth: 1999/12
+Sex: F
+CI type: 3
+Volume: 4
+Range: 6
+Discrimination: 2

@@ -1,0 +1,9 @@
+# 
+Reported: Tue Sep 13 09:50:31 2011
+Subject: johnAsparagus209
+Year/month of birth: 1998/05
+Sex: N
+CI type: 2
+Volume: 4
+Range: 8
+Discrimination: 6

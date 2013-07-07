@@ -1,0 +1,9 @@
+# 
+Reported: Sat Jul 16 16:36:25 2011
+Subject: poshBackstreet319
+Year/month of birth: 1997/01
+Sex: F
+CI type: 15
+Volume: 6
+Range: 4
+Discrimination: 4

@@ -1,0 +1,9 @@
+# 
+Reported: Mon Jun 20 15:57:59 2011
+Subject: babyStarr325
+Year/month of birth: 1993/06
+Sex: M
+CI type: 23
+Volume: 9
+Range: 4
+Discrimination: 7

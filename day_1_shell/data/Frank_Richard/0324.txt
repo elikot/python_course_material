@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jun 21 16:30:19 2011
+Subject: poshJonas268
+Year/month of birth: 1999/12
+Sex: M
+CI type: 24
+Volume: 5
+Range: 8
+Discrimination: 7

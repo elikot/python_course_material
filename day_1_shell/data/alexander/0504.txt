@@ -1,0 +1,9 @@
+# 
+Reported: Sat Sep 3 11:53:49 2011
+Subject: poshHarrison414
+Year/month of birth: 1992/10
+Sex: F
+CI type: 19
+Volume: 9
+Range: 5
+Discrimination: 6

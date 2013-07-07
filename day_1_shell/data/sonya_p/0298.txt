@@ -1,0 +1,9 @@
+# 
+Reported: Thu May 19 10:06:32 2011
+Subject: ringoMcCartney248
+Year/month of birth: 1991/08
+Sex: F
+CI type: 19
+Volume: 4
+Range: 2
+Discrimination: 7

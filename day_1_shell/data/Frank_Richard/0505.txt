@@ -1,0 +1,9 @@
+# 
+Reported: Mon Aug 29 13:42:18 2011
+Subject: georgeSpice415
+Year/month of birth: 1995/11
+Sex: N
+CI type: 15
+Volume: 4
+Range: 7
+Discrimination: 6

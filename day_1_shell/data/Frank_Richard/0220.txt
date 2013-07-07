@@ -1,0 +1,9 @@
+# 
+Reported: Mon Jun 6 15:23:54 2011
+Subject: babyJonas181
+Year/month of birth: 1993/10
+Sex: F
+CI type: 6
+Volume: 5
+Range: 7
+Discrimination: 8

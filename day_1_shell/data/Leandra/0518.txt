@@ -1,0 +1,9 @@
+# 
+Reported: Sun Jun 5 11:31:50 2011
+Subject: beyonceSpice428
+Year/month of birth: 1991/11
+Sex: F
+CI type: 18
+Volume: 5
+Range: 2
+Discrimination: 

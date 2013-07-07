@@ -1,0 +1,9 @@
+# 
+Reported: Wed May 11 12:40:46 2011
+Subject: paulLennon296
+Year/month of birth: 1994/11
+Sex: N
+CI type: 12
+Volume: 3
+Range: 7
+Discrimination: 4

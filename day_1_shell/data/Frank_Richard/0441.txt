@@ -1,0 +1,9 @@
+# 
+Reported: Wed Aug 24 16:22:36 2011
+Subject: babyMcCartney358
+Year/month of birth: 1997/11
+Sex: F
+CI type: 16
+Volume: 5
+Range: 8
+Discrimination: 5

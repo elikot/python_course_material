@@ -1,0 +1,9 @@
+# 
+Reported: Sun Jun 26 10:17:12 2011
+Subject: babyStarr416
+Year/month of birth: 1993/03
+Sex: M
+CI type: 16
+Volume: 6
+Range: 9
+Discrimination: 4

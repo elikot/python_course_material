@@ -1,0 +1,9 @@
+# 
+Reported: Sat May 21 15:27:16 2011
+Subject: scaryZ211
+Year/month of birth: 1992/11
+Sex: F
+CI type: 20
+Volume: 9
+Range: 2
+Discrimination: 6

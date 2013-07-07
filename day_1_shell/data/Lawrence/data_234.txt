@@ -1,0 +1,9 @@
+# 
+Reported: Sun Jul 3 12:57:06 2011
+Subject: gingerSpice193
+Year/month of birth: 1999/02
+Sex: F
+CI type: 3
+Volume: 4
+Range: 4
+Discrimination: 2

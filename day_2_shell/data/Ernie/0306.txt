@@ -1,0 +1,9 @@
+# 
+Reported: Tue Aug 23 08:19:31 2011
+Subject: madonnaStarr240
+Year/month of birth: 1997/06
+Sex: F
+CI type: 25
+Volume: 10
+Range: 5
+Discrimination: 8

@@ -1,0 +1,9 @@
+# 
+Reported: Thu Jul 14 11:13:20 2011
+Subject: poshBeatle377
+Year/month of birth: 1997/09
+Sex: N
+CI type: 19
+Volume: 5
+Range: 7
+Discrimination: 5

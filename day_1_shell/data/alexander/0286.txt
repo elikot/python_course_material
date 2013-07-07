@@ -1,0 +1,9 @@
+# 
+Reported: Mon Jul 18 14:27:16 2011
+Subject: georgeAsparagus240
+Year/month of birth: 1996/08
+Sex: M
+CI type: 14
+Volume: 1
+Range: 6
+Discrimination: 4

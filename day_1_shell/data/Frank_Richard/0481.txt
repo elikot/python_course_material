@@ -1,0 +1,9 @@
+# 
+Reported: Mon Jul 4 15:17:13 2011
+Subject: gingerCarrot393
+Year/month of birth: 1998/12
+Sex: F
+CI type: 13
+Volume: 3
+Range: 2
+Discrimination: 4

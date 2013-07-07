@@ -1,0 +1,9 @@
+# 
+Reported: Mon Jun 13 09:50:10 2011
+Subject: ringoStarr263
+Year/month of birth: 1994/01
+Sex: M
+CI type: 23
+Volume: 7
+Range: 5
+Discrimination: 7

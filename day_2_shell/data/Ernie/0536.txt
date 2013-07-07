@@ -1,0 +1,9 @@
+# 
+Reported: Wed Jul 13 13:42:58 2011
+Subject: jayBroccoli412
+Year/month of birth: 1995/10
+Sex: F
+CI type: 13
+Volume: 6
+Range: 7
+Discrimination: 1

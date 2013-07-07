@@ -1,0 +1,9 @@
+# 
+Reported: Thu May 19 08:04:11 2011
+Subject: madonnaZ367
+Year/month of birth: 1997/02
+Sex: F
+CI type: 16
+Volume: 4
+Range: 7
+Discrimination: 5

@@ -1,0 +1,3 @@
+[paths]
+default = git+ssh://git@github.com/elikot/python_course_material.git
+upstream = git+ssh://git@github.com/schryer/python_course_material

@@ -1,0 +1,9 @@
+# 
+Reported: Sat Jul 30 11:26:48 2011
+Subject: babyStarr203
+Year/month of birth: 1997/01
+Sex: N
+CI type: 11
+Volume: 5
+Range: 7
+Discrimination: 2

@@ -1,0 +1,9 @@
+# 
+Reported: Wed Jul 27 12:09:55 2011
+Subject: madonnaJonas297
+Year/month of birth: 1998/06
+Sex: N
+CI type: 23
+Volume: 8
+Range: 6
+Discrimination: 5

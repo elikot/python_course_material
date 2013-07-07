@@ -1,0 +1,9 @@
+# 
+Reported: Tue Aug 23 15:37:36 2011
+Subject: beyonceBeet309
+Year/month of birth: 1999/06
+Sex: N
+CI type: 9
+Volume: 9
+Range: 8
+Discrimination: 2

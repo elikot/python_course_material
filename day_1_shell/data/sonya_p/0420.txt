@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jul 12 15:29:11 2011
+Subject: paulBeatle347
+Year/month of birth: 1998/01
+Sex: N
+CI type: 22
+Volume: 5
+Range: 7
+Discrimination: 8

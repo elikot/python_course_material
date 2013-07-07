@@ -1,0 +1,9 @@
+# 
+Reported: Sun Sep 25 08:38:29 2011
+Subject: poshLennon259
+Year/month of birth: 1995/07
+Sex: N
+CI type: 14
+Volume: 6
+Range: 5
+Discrimination: 6

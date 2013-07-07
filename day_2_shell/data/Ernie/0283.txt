@@ -1,0 +1,9 @@
+# 
+Reported: Mon Sep 26 12:26:22 2011
+Subject: babySpice225
+Year/month of birth: 1993/10
+Sex: F
+CI type: 20
+Volume: 6
+Range: 6
+Discrimination: 7

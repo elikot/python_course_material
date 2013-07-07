@@ -1,0 +1,9 @@
+# 
+Reported: Fri Jun 10 11:12:26 2011
+Subject: gingerCarrot299
+Year/month of birth: 1998/05
+Sex: N
+CI type: 11
+Volume: 7
+Range: 7
+Discrimination: 8

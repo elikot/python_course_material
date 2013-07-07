@@ -1,0 +1,9 @@
+# 
+Reported: Sun May 22 08:18:56 2011
+Subject: ringoBeet409
+Year/month of birth: 1999/04
+Sex: M
+CI type: 8
+Volume: 8
+Range: 9
+Discrimination: 4

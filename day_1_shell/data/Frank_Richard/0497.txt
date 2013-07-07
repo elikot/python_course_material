@@ -1,0 +1,9 @@
+# 
+Reported: Wed Jul 6 12:47:32 2011
+Subject: paulSpice407
+Year/month of birth: 1995/03
+Sex: M
+CI type: 21
+Volume: 5
+Range: 2
+Discrimination: 6

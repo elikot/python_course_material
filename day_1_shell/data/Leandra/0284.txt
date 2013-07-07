@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jul 5 09:35:55 2011
+Subject: johnZ238
+Year/month of birth: 1997/07
+Sex: M
+CI type: 5
+Volume: 4
+Range: 8
+Discrimination: 5

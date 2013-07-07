@@ -1,0 +1,9 @@
+# 
+Reported: Wed Jul 27 12:33:09 2011
+Subject: princeAsparagus215
+Year/month of birth: 1997/09
+Sex: F
+CI type: 6
+Volume: 2
+Range: 9
+Discrimination: 4

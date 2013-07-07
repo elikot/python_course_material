@@ -1,0 +1,9 @@
+# 
+Reported: Tue Sep 6 10:58:14 2011
+Subject: ringoBeet213
+Year/month of birth: 1997/03
+Sex: N
+CI type: 9
+Volume: 7
+Range: 5
+Discrimination: 4

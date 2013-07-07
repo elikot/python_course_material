@@ -1,0 +1,9 @@
+# 
+Reported: Fri Aug 12 08:05:26 2011
+Subject: beyonceJonas299
+Year/month of birth: 1997/07
+Sex: M
+CI type: 16
+Volume: 1
+Range: 2
+Discrimination: 4

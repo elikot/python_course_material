@@ -1,0 +1,9 @@
+# 
+Reported: Tue Aug 23 11:46:46 2011
+Subject: gingerSpice422
+Year/month of birth: 1997/10
+Sex: F
+CI type: 22
+Volume: 6
+Range: 6
+Discrimination: 

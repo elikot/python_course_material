@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jul 12 14:17:42 2011
+Subject: madonnaSpice385
+Year/month of birth: 1993/07
+Sex: F
+CI type: 1
+Volume: 5
+Range: 6
+Discrimination: 2

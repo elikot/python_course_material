@@ -1,0 +1,9 @@
+# 
+Reported: Sat Sep 3 11:11:01 2011
+Subject: paulAsparagus430
+Year/month of birth: 1993/01
+Sex: M
+CI type: 3
+Volume: 5
+Range: 6
+Discrimination: 3

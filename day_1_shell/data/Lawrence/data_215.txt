@@ -1,0 +1,9 @@
+# 
+Reported: Fri Jul 29 11:07:27 2011
+Subject: babyCarrot177
+Year/month of birth: 1993/09
+Sex: F
+CI type: 11
+Volume: 7
+Range: 5
+Discrimination: 4

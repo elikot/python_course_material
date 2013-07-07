@@ -1,0 +1,9 @@
+# 
+Reported: Thu Aug 4 11:57:52 2011
+Subject: johnBeatle295
+Year/month of birth: 1996/08
+Sex: F
+CI type: 22
+Volume: 5
+Range: 7
+Discrimination: 3

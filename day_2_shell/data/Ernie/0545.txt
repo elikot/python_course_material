@@ -1,0 +1,9 @@
+# 
+Reported: Mon Aug 22 09:29:07 2011
+Subject: jayBroccoli418
+Year/month of birth: 1999/08
+Sex: F
+CI type: 18
+Volume: 6
+Range: 8
+Discrimination: 6

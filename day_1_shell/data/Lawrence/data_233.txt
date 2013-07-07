@@ -1,0 +1,9 @@
+# 
+Reported: Thu Jul 28 16:46:18 2011
+Subject: georgeSync192
+Year/month of birth: 1991/10
+Sex: M
+CI type: 2
+Volume: 5
+Range: 8
+Discrimination: 3

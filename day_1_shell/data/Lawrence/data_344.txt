@@ -1,0 +1,9 @@
+# 
+Reported: Wed Aug 17 10:56:54 2011
+Subject: princeCarrot287
+Year/month of birth: 1995/11
+Sex: N
+CI type: 23
+Volume: 9
+Range: 5
+Discrimination: 6

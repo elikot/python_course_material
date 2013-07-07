@@ -1,0 +1,9 @@
+# 
+Reported: Sat Sep 17 08:24:29 2011
+Subject: babyJonas258
+Year/month of birth: 1993/07
+Sex: N
+CI type: 5
+Volume: 1
+Range: 10
+Discrimination: 3

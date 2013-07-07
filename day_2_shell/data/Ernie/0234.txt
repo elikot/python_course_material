@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jun 14 09:36:25 2011
+Subject: robynZ190
+Year/month of birth: 1993/07
+Sex: N
+CI type: 6
+Volume: 1
+Range: 7
+Discrimination: 1

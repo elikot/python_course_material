@@ -1,0 +1,9 @@
+# 
+Reported: Mon Sep 19 11:34:11 2011
+Subject: paulZ378
+Year/month of birth: 1993/09
+Sex: M
+CI type: 15
+Volume: 5
+Range: 6
+Discrimination: 6

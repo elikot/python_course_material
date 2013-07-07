@@ -1,0 +1,9 @@
+# 
+Reported: Wed May 18 13:42:25 2011
+Subject: ringoBeatle288
+Year/month of birth: 1991/01
+Sex: F
+CI type: 3
+Volume: 3
+Range: 1
+Discrimination: 3

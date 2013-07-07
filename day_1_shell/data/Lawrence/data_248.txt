@@ -1,0 +1,9 @@
+# 
+Reported: Fri Jun 24 15:07:08 2011
+Subject: beyonceHarrison207
+Year/month of birth: 1998/11
+Sex: N
+CI type: 24
+Volume: 8
+Range: 8
+Discrimination: 9

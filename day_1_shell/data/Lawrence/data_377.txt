@@ -1,0 +1,9 @@
+# 
+Reported: Fri May 13 09:52:36 2011
+Subject: poshSync314
+Year/month of birth: 1992/04
+Sex: M
+CI type: 5
+Volume: 2
+Range: 2
+Discrimination: 1

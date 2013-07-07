@@ -1,0 +1,9 @@
+# 
+Reported: Sun May 15 10:17:41 2011
+Subject: johnSpice253
+Year/month of birth: 1992/10
+Sex: N
+CI type: 6
+Volume: 2
+Range: 6
+Discrimination: 6

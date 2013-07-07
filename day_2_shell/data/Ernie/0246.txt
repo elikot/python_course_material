@@ -1,0 +1,9 @@
+# 
+Reported: Fri Jun 24 16:54:13 2011
+Subject: robynZ202
+Year/month of birth: 1999/06
+Sex: F
+CI type: 13
+Volume: 5
+Range: 8
+Discrimination: 3

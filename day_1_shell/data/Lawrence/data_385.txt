@@ -1,0 +1,9 @@
+# 
+Reported: Mon Sep 5 11:59:25 2011
+Subject: johnMcCartney322
+Year/month of birth: 1995/06
+Sex: F
+CI type: 5
+Volume: 7
+Range: 6
+Discrimination: 1

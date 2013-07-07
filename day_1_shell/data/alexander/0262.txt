@@ -1,0 +1,9 @@
+# 
+Reported: Fri Jun 10 16:49:11 2011
+Subject: babySpice219
+Year/month of birth: 1996/10
+Sex: N
+CI type: 13
+Volume: 4
+Range: 2
+Discrimination: 1

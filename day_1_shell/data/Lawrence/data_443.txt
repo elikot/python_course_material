@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jul 5 10:53:50 2011
+Subject: babyAsparagus360
+Year/month of birth: 1993/05
+Sex: N
+CI type: 18
+Volume: 6
+Range: 7
+Discrimination: 7

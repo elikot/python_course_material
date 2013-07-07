@@ -1,0 +1,9 @@
+# 
+Reported: Sun Sep 4 15:22:43 2011
+Subject: johnHarrison348
+Year/month of birth: 1996/03
+Sex: F
+CI type: 7
+Volume: 5
+Range: 7
+Discrimination: 4

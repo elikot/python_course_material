@@ -1,0 +1,9 @@
+# 
+Reported: Mon Jul 4 09:06:33 2011
+Subject: babySync202
+Year/month of birth: 1992/12
+Sex: N
+CI type: 24
+Volume: 5
+Range: 5
+Discrimination: 7

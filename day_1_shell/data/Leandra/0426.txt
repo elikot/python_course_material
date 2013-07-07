@@ -1,0 +1,9 @@
+# 
+Reported: Tue May 24 15:16:18 2011
+Subject: princeStarr351
+Year/month of birth: 1995/08
+Sex: F
+CI type: 18
+Volume: 4
+Range: 4
+Discrimination: 7

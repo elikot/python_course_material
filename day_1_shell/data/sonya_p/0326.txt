@@ -1,0 +1,9 @@
+# 
+Reported: Sat May 14 14:48:41 2011
+Subject: beyonceMcCartney270
+Year/month of birth: 1997/07
+Sex: N
+CI type: 12
+Volume: 8
+Range: 3
+Discrimination: 3

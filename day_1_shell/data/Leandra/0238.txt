@@ -1,0 +1,9 @@
+# 
+Reported: Sat Jun 25 14:26:10 2011
+Subject: babyAsparagus197
+Year/month of birth: 1997/11
+Sex: F
+CI type: 5
+Volume: 4
+Range: 4
+Discrimination: 4

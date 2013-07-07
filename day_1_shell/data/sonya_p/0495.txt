@@ -1,0 +1,9 @@
+# 
+Reported: Thu Aug 18 09:19:15 2011
+Subject: ringoAsparagus405
+Year/month of birth: 1991/03
+Sex: N
+CI type: 17
+Volume: 5
+Range: 3
+Discrimination: 6

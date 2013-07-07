@@ -1,0 +1,9 @@
+# 
+Reported: Thu Jul 21 11:31:08 2011
+Subject: robynAsparagus433
+Year/month of birth: 1996/07
+Sex: N
+CI type: 3
+Volume: 5
+Range: 7
+Discrimination: 1

@@ -1,0 +1,9 @@
+# 
+Reported: Sun Aug 21 14:32:05 2011
+Subject: poshBeatle262
+Year/month of birth: 1996/02
+Sex: M
+CI type: 23
+Volume: 2
+Range: 9
+Discrimination: 8

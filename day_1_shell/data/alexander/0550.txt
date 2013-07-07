@@ -1,0 +1,9 @@
+# 
+Reported: Fri Jun 3 15:03:01 2011
+Subject: babyHarrison457
+Year/month of birth: 1997/12
+Sex: M
+CI type: 25
+Volume: 7
+Range: 8
+Discrimination: 8

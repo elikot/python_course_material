@@ -1,0 +1,9 @@
+# 
+Reported: Mon Sep 5 13:25:04 2011
+Subject: beyonceAsparagus396
+Year/month of birth: 1998/11
+Sex: F
+CI type: 8
+Volume: 7
+Range: 10
+Discrimination: 5

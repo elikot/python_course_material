@@ -1,0 +1,9 @@
+# 
+Reported: Fri Sep 16 13:09:43 2011
+Subject: poshSync226
+Year/month of birth: 1998/05
+Sex: F
+CI type: 8
+Volume: 5
+Range: 3
+Discrimination: 8

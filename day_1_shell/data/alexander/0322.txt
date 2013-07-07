@@ -1,0 +1,9 @@
+# 
+Reported: Tue May 17 13:25:06 2011
+Subject: poshBeet266
+Year/month of birth: 1997/10
+Sex: N
+CI type: 8
+Volume: 2
+Range: 4
+Discrimination: 3

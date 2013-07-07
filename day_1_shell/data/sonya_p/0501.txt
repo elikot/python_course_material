@@ -1,0 +1,9 @@
+# 
+Reported: Fri Sep 23 16:45:22 2011
+Subject: madonnaAsparagus411
+Year/month of birth: 1999/12
+Sex: F
+CI type: 15
+Volume: 7
+Range: 5
+Discrimination: 5

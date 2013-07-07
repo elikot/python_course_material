@@ -1,0 +1,9 @@
+# 
+Reported: Sun Sep 25 13:06:03 2011
+Subject: babyHarrison439
+Year/month of birth: 1996/11
+Sex: M
+CI type: 1
+Volume: 6
+Range: 10
+Discrimination: 4

@@ -1,0 +1,9 @@
+# 
+Reported: Sun Sep 18 11:41:30 2011
+Subject: gingerLennon429
+Year/month of birth: 1994/05
+Sex: M
+CI type: 21
+Volume: 9
+Range: 6
+Discrimination: 6

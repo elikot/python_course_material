@@ -1,0 +1,9 @@
+# 
+Reported: Sat Jun 25 10:25:15 2011
+Subject: poshZ325
+Year/month of birth: 1994/03
+Sex: N
+CI type: 4
+Volume: 3
+Range: 5
+Discrimination: 4

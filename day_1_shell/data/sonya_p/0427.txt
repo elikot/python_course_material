@@ -1,0 +1,9 @@
+# 
+Reported: Fri Jul 29 16:58:35 2011
+Subject: babyHarrison352
+Year/month of birth: 1994/07
+Sex: N
+CI type: 2
+Volume: 7
+Range: 2
+Discrimination: 3

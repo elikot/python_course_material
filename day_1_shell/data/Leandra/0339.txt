@@ -1,0 +1,9 @@
+# 
+Reported: Sat Aug 27 13:29:12 2011
+Subject: georgeSpice282
+Year/month of birth: 1996/07
+Sex: F
+CI type: 20
+Volume: 7
+Range: 8
+Discrimination: 7

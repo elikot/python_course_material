@@ -1,0 +1,9 @@
+# 
+Reported: Sat Aug 13 10:27:03 2011
+Subject: babyBackstreet353
+Year/month of birth: 1999/10
+Sex: M
+CI type: 4
+Volume: 2
+Range: 8
+Discrimination: 

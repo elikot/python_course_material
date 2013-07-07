@@ -1,0 +1,9 @@
+# 
+Reported: Sun Aug 7 14:12:54 2011
+Subject: poshZ379
+Year/month of birth: 1992/10
+Sex: M
+CI type: 11
+Volume: 3
+Range: 5
+Discrimination: 3

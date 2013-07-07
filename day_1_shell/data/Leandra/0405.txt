@@ -1,0 +1,9 @@
+# 
+Reported: Tue Jul 26 10:08:50 2011
+Subject: johnAsparagus337
+Year/month of birth: 1998/08
+Sex: F
+CI type: 18
+Volume: 6
+Range: 3
+Discrimination: 4

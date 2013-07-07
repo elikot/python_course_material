@@ -1,0 +1,9 @@
+# 
+Reported: Fri May 13 14:45:41 2011
+Subject: poshAsparagus451
+Year/month of birth: 1994/04
+Sex: N
+CI type: 16
+Volume: 3
+Range: 8
+Discrimination: 5

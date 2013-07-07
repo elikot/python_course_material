@@ -1,0 +1,9 @@
+# 
+Reported: Fri Aug 5 09:29:37 2011
+Subject: babyJonas342
+Year/month of birth: 1996/05
+Sex: F
+CI type: 7
+Volume: 5
+Range: 5
+Discrimination: 4

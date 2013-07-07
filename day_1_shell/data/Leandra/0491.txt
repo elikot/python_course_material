@@ -1,0 +1,9 @@
+# 
+Reported: Sun Aug 7 15:14:37 2011
+Subject: jayJonas401
+Year/month of birth: 1991/11
+Sex: F
+CI type: 18
+Volume: 4
+Range: 2
+Discrimination: 3

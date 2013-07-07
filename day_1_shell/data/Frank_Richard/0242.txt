@@ -1,0 +1,9 @@
+# 
+Reported: Sat May 7 12:26:05 2011
+Subject: paulZ201
+Year/month of birth: 1991/02
+Sex: N
+CI type: 3
+Volume: 5
+Range: 5
+Discrimination: 5

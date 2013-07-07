@@ -1,0 +1,9 @@
+# 
+Reported: Sat Sep 17 09:08:02 2011
+Subject: gingerAsparagus186
+Year/month of birth: 1996/01
+Sex: M
+CI type: 12
+Volume: 6
+Range: 10
+Discrimination: 7

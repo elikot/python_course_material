@@ -1,0 +1,9 @@
+# 
+Reported: Sat Sep 17 13:34:55 2011
+Subject: paulBeet221
+Year/month of birth: 1998/08
+Sex: N
+CI type: 14
+Volume: 6
+Range: 10
+Discrimination: 4

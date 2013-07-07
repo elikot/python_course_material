@@ -1,0 +1,9 @@
+# 
+Reported: Mon May 2 15:47:43 2011
+Subject: georgeJonas264
+Year/month of birth: 1996/07
+Sex: M
+CI type: 17
+Volume: 6
+Range: 9
+Discrimination: 6

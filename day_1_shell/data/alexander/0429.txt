@@ -1,0 +1,9 @@
+# 
+Reported: Fri Jul 22 09:05:47 2011
+Subject: babyAsparagus354
+Year/month of birth: 1992/12
+Sex: N
+CI type: 18
+Volume: 3
+Range: 3
+Discrimination: 4

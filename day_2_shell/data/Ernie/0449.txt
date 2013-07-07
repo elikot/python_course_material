@@ -1,0 +1,9 @@
+# 
+Reported: Sat Jul 23 12:16:02 2011
+Subject: paulJonas348
+Year/month of birth: 1998/05
+Sex: N
+CI type: 16
+Volume: 4
+Range: 9
+Discrimination: 7
