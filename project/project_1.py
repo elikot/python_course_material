@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import sys
 sys.path.append('../code/')
-from tools import peakdetect
-from tools import savitzky_golay ## Smoothing algorithm ##
+from tools_2 import peakdetect
+from tools_2 import savitzky_golay ## Smoothing algorithm ##
 from scipy.interpolate import interp1d ##Interpolation ##
 from scipy.optimize import leastsq # Levenberg-Marquadt Algorithm #
 
