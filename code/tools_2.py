@@ -83,7 +83,6 @@ def make_sequence_table(seq0, seq1, display_length=30, colour_differences=True):
         seq_table.append_row(blank_row)
 
         first_index = second_index
-<<<<<<< HEAD
     return seq_table 
 ##############################################################################################
 #https://gist.github.com/schlady/1576079#file-peakdetect-py
@@ -260,6 +259,3 @@ def savitzky_golay(y, window_size, order, deriv=0, rate=1):
     lastvals = y[-1] + np.abs(y[-half_window-1:-1][::-1] - y[-1])
     y = np.concatenate((firstvals, y, lastvals))
     return np.convolve( m[::-1], y, mode='valid')  	
-=======
-    return seq_table      	
->>>>>>> 5068e73823fa8fa2154dd5ac6bc8c808ae30f98e

@@ -72,7 +72,7 @@ def residuals(p,y,x):
        err=y-tslfn(x,p)
        return err
     else:
-	print 'b is not within bounds'
+       print 'b is not within bounds'
        
        
 
